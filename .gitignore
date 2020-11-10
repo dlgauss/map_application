@@ -10,8 +10,8 @@
 .idea/vcs.xml
 back-end/data/bd_data.xlsx
 back-end/data/incidents.xlsx
-back-end/database_managment/
-back-end/mapApp/
+
+
 Would skip repository front-end/front-map-app
 front-end/node_modules
 front-end/package-lock.json
